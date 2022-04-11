@@ -1,0 +1,401 @@
+.container{
+    width: 1920px;
+    height: 2900px;
+    background-color: #F6F8FA;
+    border: 1px solid black;
+
+    .boshi1{
+        height: 52px;
+        background-color: #10252E;
+
+        .qisim1{
+            display: flex;
+            margin-left:382px;
+
+            .bolak1{
+                margin-top: 19px;
+            }
+            .bolak2{
+                color: white;
+                margin-left: 15px;
+                margin-top: 19px;
+            }
+            .bolak3{
+                img{
+                    margin-top: 22px;
+                    margin-left: 40px;
+                }
+            }
+            .bolak4{
+                color: white;
+                margin-left: 15px;
+                margin-top: 19px;
+            }
+            .bolak5{
+                margin-left: 562px;
+                display: flex;
+
+                .cha1{
+                    margin-top: 19px;
+                }
+                .cha2{
+                    margin-left:18px;
+                    margin-top: 19px;
+                }
+                .cha3{
+                    margin-left:18px;
+                    margin-top: 19px;
+                }
+                .cha4{
+                    margin-left:14px;
+                    margin-top: 19px;
+                }
+                .cha5{
+                    width: 133px;
+                    height: 42px;
+                    background-color: #B89841;
+                     margin-left: 33px;
+                     margin-top: 5px;
+                     border-radius: 5px;
+
+                     div{
+                        margin: 13px;
+                        text-align:center;
+                        color: white;
+                     }
+                }
+            }
+        }
+    }
+    .menyu{
+        height: 78px;
+        background-color: #ffffff;
+        border: 1px solid white;
+        display: flex;
+
+        .mb1{
+            margin-left: 381px;
+            margin-top: 23px;
+        }
+        .mb2{
+            margin-top:27px;
+            margin-left: 5px;
+        }
+        .mb3{
+            margin-left: 117px;
+            margin-top: 17px;
+
+            ul{
+                display: flex;
+
+                li{
+                    list-style-type: none;
+                    margin-left: 40px;
+                }
+            }
+        }
+    }
+    .d1{
+        margin-left:838px;
+        margin-top: 83px;
+
+        font{
+            font-size: 50px;
+        }
+    }
+    .d2{
+        margin-left: 920px;
+        width: 100px;
+        height: 4px;
+        background-color: #B89841;
+    }
+    .boshi2{
+        display: flex;
+        margin-left: 381px;
+
+        .qisim2{
+            border-bottom: 2px solid hsl(0, 2%, 74%);
+            margin-left: 20px;
+
+            img{
+                border-radius: 2px;
+            }
+            .bolak6{
+                display: flex;
+
+                .cha6{
+                    border:2px dotted; 
+                    width: 52px; height: 52px;
+                    margin-top: 10px;
+
+                    img{
+                        margin: 13px;
+                    }
+                }
+                .cha7{
+                    margin-left:26px; 
+                    margin-top:20px;
+
+                    strong{
+                        font-size: 25px;
+                    }
+                }
+            }
+            .bolak7{
+                width:367px;  
+                margin-top: 20px;
+            }
+        }
+        .qisim3{
+            border-bottom: 2px solid hsl(0, 2%, 74%);
+            margin-left: 20px;
+
+            img{
+                border-radius: 2px;
+            }
+            .bolak8{
+                display: flex;
+
+                .cha8{
+                    border:2px dotted; 
+                    width: 52px; height: 52px;
+                    margin-top: 10px;
+
+                    img{
+                        margin: 13px;
+                    }
+                }
+                .cha9{
+                    margin-left:26px; 
+                    margin-top:20px;
+
+                    strong{
+                        font-size: 25px;
+                    }
+                }
+            }
+            .bolak9{
+                width:367px; 
+                margin-top: 20px;
+            }
+        }
+        .qisim4{
+            border-bottom: 2px solid hsl(0, 2%, 74%);
+            margin-left: 20px;
+
+            img{
+                border-radius: 2px;
+            }
+            .bolak10{
+                display: flex;
+
+                .cha10{
+                    border:2px dotted; 
+                    width: 52px; height: 52px;
+                    margin-top: 10px;
+
+                    img{
+                        margin: 13px;
+                    }
+                }
+                .cha11{
+                    margin-left:26px; 
+                    margin-top:20px;
+
+                    strong{
+                        font-size: 25px;
+                    }
+                }
+            }
+            .bolak11{
+                width:367px; 
+                margin-top: 20px;
+            }
+        }
+    }
+    .back{
+        width:1920px;
+        height:757px;
+        background-image: url(rasm/rasm3.png);
+        background-size: 1920px 757px;
+        border: 1px solid white;
+
+        .bolak12{
+            margin-left: 804px;
+            margin-top: 75px;
+
+            p{
+                color: white; 
+                font-size: 50px;
+            }
+        }
+        .bolak13{
+            margin-left:903px; 
+            width: 120px;
+            height: 4px; 
+            background-color: #B89841; 
+            margin-top: -40px;
+        }
+        .bolak14{
+            margin-left:906px; 
+            margin-top:50px;
+        }
+        .bolak15{
+            margin-left:550px; 
+            width: 815px;
+            text-align: center;
+
+            font{
+                color: white;
+            }
+        }
+        .bolak16{
+            margin-left: 880px; 
+            width: 170px; 
+            margin-top: 38px;
+
+            .f1{
+                color: white; 
+                font-size: 30px;
+            }
+            .f2{
+                font-size:18px; 
+                color: white; 
+                margin-left: 10px;
+            }
+        }
+        .bolak17{
+            margin-left: 893px; 
+            margin-top: 15px;
+
+            img{
+                margin-left: 8px;
+            }
+        }
+    }
+    .bolak18{
+        margin-left: 381px; 
+        margin-top: 111px;
+
+        img{
+            margin-left: 5px;
+        }
+    }
+    .back2{
+        margin-top: 122px;
+        width:1921px;
+        height: 365px;
+        background-image:url(rasm/back2.png);
+        background-size:1921px 365px;
+        border: 1px solid white;
+
+        .qisim5{
+            display: flex;
+
+            .bolak19{
+                color: white; 
+                margin-left: 382px; 
+                margin-top: 55px;
+
+                .cha12{
+                    font-size: 25px;
+                }
+                .cha13{
+                    width: 247px; 
+                    height: 90px;
+                    margin-top: 35px;
+                }
+            }
+        }
+        .qisim6{
+            margin-top: 55px; 
+            margin-left: 55px;
+
+            .bolak20{
+                font-size: 25px;
+                color:white;
+            }
+            .bolak21{
+                color:white;
+            }
+        }
+        .qisim7{
+            margin-top: 55px; 
+            margin-left: 178px;
+
+            .cha14{
+                font-size: 25px;
+                color:white;
+            }
+            .cha15{
+                color: white;
+            }
+        }
+        .qisim8{
+            width: 250px; 
+            margin-left: 50px; 
+            margin-top: 55px;
+
+            .cha16{
+                font-size: 25px;
+                color:white; 
+                text-align: center;
+            }
+            .cha17{
+                width: 250px; 
+                margin-top: 40px; 
+                color: white;
+            }
+            .cha18{
+                display: flex;
+
+                input{
+                    width: 204px;
+                    height: 30px;
+                    border-top-left-radius: 50px;
+                    border-bottom-left-radius: 50px;
+                }
+               .cha19{
+                width:46px; 
+                height:35px; 
+                background-color: #B89841; 
+                border-top-right-radius: 30px; 
+                border-bottom-right-radius: 30px;
+
+                img{
+                    margin-left: 10px; 
+                    margin-top: 10px;
+                }
+               }
+            }
+        }
+        .qisim9{
+            display: flex; 
+            margin-top: 91px; 
+            margin-left: 382px;
+
+            .cha20{
+                color: white;
+            }
+            .cha21{
+                margin-left:225px; 
+                font-size: 20px;
+
+                img{
+                    margin-left: 17px;
+                }
+            }
+            .cha22{
+                width: 40px;
+                height: 40px; 
+                border-radius: 3px; 
+                background-color: #B89841; 
+                margin-left: 350px;
+
+                img{
+                    margin: 11px;
+                }
+            }
+        }
+    }
+}
